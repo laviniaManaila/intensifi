@@ -1,0 +1,249 @@
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+
+}
+
+body {
+    font-family:"Open Sans",Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+}
+
+
+h1,h2,h3,h4,h5,h6{
+    color: rgb(36, 161, 196);
+    font-family: "Montserrat", sans-serif;
+}
+
+.get-in {
+    color: rgb(254, 254, 255);
+    margin-top: -2px;
+}
+
+.text {
+    font-family: "Pacifico", cursive;
+    color: rgb(246 117 94);
+    font-size: 35.2px;
+    margin-top: 5.5px;
+}
+
+.intensifi {
+    color: rgb(246 117 94);
+}
+
+.ipsum {
+    font-size: 42px;
+
+}
+
+.big-circle {
+    background-color: #55534c;
+    height: 249px;
+    width: 250px;
+    display: block;
+    margin-top: 12px;
+    margin-right: -3px;
+}
+
+.white {
+    color: rgb(7, 7, 7);
+}
+
+.section {
+    background-color: rgb(246 117 94);
+    height: 320px;
+    margin-top: 22px;
+}
+
+.lorem {
+    color: rgb(163 167 173);
+}
+
+.get {
+    background-color: rgb(36, 161, 196);
+    margin-top: 25px;
+    margin-right: 5px;
+}
+
+.jane {
+    color: rgb(254, 254, 255);
+    margin-top: 35px;
+    margin-right: -3px;
+}
+
+.jane-jane {
+    margin-top: -10px;
+    margin-left: 9px;
+    color: rgb(254, 254, 255);
+}
+
+.send{
+    color: rgb(254, 254, 255);
+    font-size: 10px;
+    margin-top: -12px;
+}
+
+.jane p{
+    margin-top: -18px;
+    margin-left: 7px;
+    color: rgb(254, 254, 255);
+    font-size: 10px;
+}
+    
+.morbi {
+    color: rgb(249 179 166);
+    max-width: 467px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 12.17px;
+    margin-top: 26px;
+}
+
+.morb-color {
+    color: rgb(177 181 186);
+    margin-right: -98px;
+    margin-top: 18px;
+    margin-left: -78px;
+}
+
+.ultra {
+    margin-top: 13px;
+    margin-left: -75px;
+}
+
+.ultra-ultra {
+    margin-top: 38px;
+    margin-left: -80px;
+}
+
+.font{
+    font-size: 18px;
+}
+
+
+.margin{
+    margin-top: 23px;
+    margin-left: 219px;
+}
+
+.background-img {
+    background-image: url(./assets/banner.jpg);
+    background-size: cover;
+    height: 545px;
+    padding-top: 126px;
+}
+
+.background-img p {
+    max-width: 520px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 17.17px;
+    margin-top: 15px;
+    color: rgb(177 181 186);
+}
+
+.button-img {
+    background-image: url(./assets/pic01.jpg);
+    background-size: cover;
+    border-radius: 197px;
+}
+
+.button-color {
+    color: aliceblue;
+    font-size: 22px;
+    letter-spacing: 0.1rem;
+    line-height: 1.3;
+    height: 44px;
+    margin-top: 13px;
+}
+
+.aria-controls {
+    color: rgb(246 117 94);
+    margin-top: 0px;
+    margin-left: -7px;
+}
+
+.margin-margin {
+    margin-top: 23px;
+    margin-left: 219px;
+}
+
+.margin-margin-top {
+    margin-top: 22px;
+    margin-left: 93px;
+}
+
+.mal {
+    margin-top: 22px;
+    margin-left: -32px;
+}
+
+.mags {
+    margin-top: -10px;
+    margin-right: -17px;
+}
+
+.mags-mags {
+    margin-top: 19px;
+    margin-right: 46px;
+}
+ 
+.morb-morb {
+    margin-top: 16px;
+    margin-left: 216px;
+    color: rgb(177 181 186);
+}
+
+.morb-img {
+    margin-left: 90px;
+    margin-top: 15px;
+    color: rgb(177 181 186);
+}
+
+.bold {
+    color: rgb(177 181 186);
+}
+
+.morb {
+    margin-top: 15px;
+    margin-left: -33px;
+    color: rgb(177 181 186);
+ }
+ 
+.photo-descriptions img {
+    width: 100%;
+}
+
+.photo-descriptions .col-md-2 {
+    width: 250px;
+    border: 1px solid lightgrey;
+    padding: 0;
+    margin-inline: 21px;
+}
+
+.border{
+    margin-top: 61px;
+}
+
+.lorem .col-md-3{
+    width: 438px;
+    padding: 0;
+}
+
+.col-md-2 .fa {
+    margin-top: 22px;
+    margin-left: -282px;
+}
+
+.aria-controls p{
+    margin-left: -99px;
+    margin-top: -20px;
+}
+
+
+
+
+
+
+   
